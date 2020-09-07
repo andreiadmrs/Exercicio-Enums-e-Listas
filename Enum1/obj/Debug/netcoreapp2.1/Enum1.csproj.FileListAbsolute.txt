@@ -1,0 +1,11 @@
+C:\Users\Andie\source\repos\Enum1\Enum1\bin\Debug\netcoreapp2.1\Enum1.deps.json
+C:\Users\Andie\source\repos\Enum1\Enum1\bin\Debug\netcoreapp2.1\Enum1.runtimeconfig.json
+C:\Users\Andie\source\repos\Enum1\Enum1\bin\Debug\netcoreapp2.1\Enum1.runtimeconfig.dev.json
+C:\Users\Andie\source\repos\Enum1\Enum1\bin\Debug\netcoreapp2.1\Enum1.dll
+C:\Users\Andie\source\repos\Enum1\Enum1\bin\Debug\netcoreapp2.1\Enum1.pdb
+C:\Users\Andie\source\repos\Enum1\Enum1\obj\Debug\netcoreapp2.1\Enum1.csprojAssemblyReference.cache
+C:\Users\Andie\source\repos\Enum1\Enum1\obj\Debug\netcoreapp2.1\Enum1.csproj.CoreCompileInputs.cache
+C:\Users\Andie\source\repos\Enum1\Enum1\obj\Debug\netcoreapp2.1\Enum1.AssemblyInfoInputs.cache
+C:\Users\Andie\source\repos\Enum1\Enum1\obj\Debug\netcoreapp2.1\Enum1.AssemblyInfo.cs
+C:\Users\Andie\source\repos\Enum1\Enum1\obj\Debug\netcoreapp2.1\Enum1.dll
+C:\Users\Andie\source\repos\Enum1\Enum1\obj\Debug\netcoreapp2.1\Enum1.pdb
